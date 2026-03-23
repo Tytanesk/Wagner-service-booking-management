@@ -1,0 +1,96 @@
+nfo@wagner-service.org
+
+IONOS_24!	
+
+access Ionos: https://login.ionos.de/oauth-login?language=de_DE&redirect_url=https%3A%2F%2Fauth.ionos.de%2F1.0%2Foauth%2Fauth%2Fotk&oauthclient=Control+Panel+Server&oauthinternal=true
+
+that was the project URL, just let me check for the solution url
+
+here is the URL: https://vxaeecgjbhpsxrnmnfno.supabase.co
+2:06 AM
+
+and published key
+
+maybe it`s will be better, if you get my log in for supabase, c.tscherneck@gmail.com, SupaBase_2025!
+
+Ivib6Uaq
+
+85.215.68.47
+
+centos VPS
+
+https://beds24.com
+login: freeburner80@gmail.com
+Password: Beds24_freeburner_25!
+
+--------------Reset Passsword
+                                                  //Beds24: BeTTen_25!!!
+Beds24: BEds_1234! , Supabase: Huhu_ruft_Uhu_2025!
+
+Wagner-Service,  BeTTen_25!!!
+
+Frontend deploy
+	---windows command
+	npm run  build
+	scp -r dist/* root@85.215.68.47:/var/www/frontend
+	---centos command
+	chown -R nginx:nginx /var/www/frontend
+	chmod -R 755 /var/www/frontend
+	nginx -t
+	systemctl restart nginx
+
+clear code in file
+> /etc/nginx/sites-available/backend.conf
+
+EMail: info@wagner-service.org
+Password:  P@ssword_2025!
+
+🎄Future Enhancements Possible:
+	~Booking creation: Add bookings manually
+	~Guest communication: Send messages to guests
+	~Financial reports: Detailed revenue analysis
+	~Calendar view: Visual booking calendar
+	~Mobile app: Native mobile application
+
+how to install nginx in centos
+how to install mc in centos
+
+7z x frontend.7z -o/home/centos/frontend
+7z x backend.7z -o/home/centos/backend
+7z x supabase\schema.sql -o/home/centos/supabase
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ4YWVlY2dqYmhwc3hybm1uZm5vIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjUzNTY5MzQsImV4cCI6MjA4MDkzMjkzNH0.wuq4d7GAL4nst79Ihyajy2wbugeGhDfnveSdw06G01w
+
+---Invitation code
+J46uYFwLRv4LnVRerl/7IYF2e13fiuyg5R6BTkE+SkrtjuJGtoaWH1mhVFX+h+WwYYeDn9Pq/MSS gg8XyQ6QAxQfhBBhF3VeCLtBZhQAw36Px8LKamiWtHSLxdsIrJZDnMCP2Tqgnr9KbgR1cmsdDQ==
+
+jZvnfm1jO38x1rYMjBsgbW8aO2pHMonGsg2Qjs72aGbkX5cNKdgyN0cn/ouPQ1nBlEY/TbLeZKc5 JDoUYowbuhJZeC+Qqhr77epoQjMWoT5A1RK7UNfx5DYAUnXmWrYIukcLLRVx9KVYWg4Ur9EXyg==
+
+-------------
+In beds24, to get refresh token with invitation code, I use below code
+But I had this error message.
+what's wrong and fix this code.
+PS E:\Task\New folder> node getRefreshToken.js
+[dotenv@17.2.3] injecting env (1) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+❌ ERROR
+Status: 400
+Data: { success: false, code: 400, error: 'Invalid JSON request body' }
+
+Frontend:
+sb_publishable_E_TGolalskBPAp32PCknag_5X9edyl8
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ4YWVlY2dqYmhwc3hybm1uZm5vIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjUzNTY5MzQsImV4cCI6MjA4MDkzMjkzNH0.wuq4d7GAL4nst79Ihyajy2wbugeGhDfnveSdw06G01w
+
+C:\Users\Logan\Project\frontend>scp -r dist/* root@85.215.68.47:/var/www/frontend/
+
+
+Invite code : beds24
+7R8vhV6UQELo5uxwDDQk1wvbHHT8JTn2inRxetgwI9OJz8E7K4PUBDoj0OqT++gaWUbnHAOgg8HJpnfbhedwUNfrStbTZp/EmLZJynoKpGxgOfWF/3+y2+xVANw0wHL3j12sH6lLwtqBTQUSU8aV++WtWFD0IAdE9gqkWtao99M=
+
+
+✅ SUCCESS
+Access Token: 13BcjSr+5Y6DPNN0CElaUgDURRspYI1D2ThhpxvMnTwvrtGXUd3iYNLu6mpiyvm3T9vxfjOwbfi53WdTYLSetezqh7DNlP9jZdMZDfhb/6qt0RaeNYqIvlb9Gi0O/mCxyqlatFes7GRv+B4ogtCyCpmAk6slav2xxotIKG8tYsI=
+Expires In: 86400 seconds
+
+🎯 BEDS24_REFRESH_TOKEN: ADeoYRSAAwvsHgMacvoZLPmRA4+3f61JQtubsPiyiG+v/6+EGyzCzb898N7nuwBKBTq48+Dz18T82RDsYkXewmVUNNByiU21WEsv40+hzXaxzCqA0gWKQzzRIo/H7uBV84m/OrqgF1EqpQQjAnRtz7iIV2WHjDDA6+CM+LVxO7w=
